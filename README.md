@@ -23,6 +23,6 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 Being able to take notes and have them organized and have the ability to go back and look at them.
 
 ## Repository
-- [Heroku App]
+- [Heroku App] https://notetakenrs.herokuapp.com/
 - [Project Repo] https://github.com/Rsaldaen/Note_Taken
 - [GitHub] https://github.com/rsaldaen
