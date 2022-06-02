@@ -24,5 +24,5 @@ Being able to take notes and have them organized and have the ability to go back
 
 ## Repository
 - [Heroku App] https://notetakenrs.herokuapp.com/
-- [Project Repo] https://github.com/Rsaldaen/Note_Taken
+- [Project Repo] https://github.com/Rsaldaen/NoteTaken
 - [GitHub] https://github.com/rsaldaen
